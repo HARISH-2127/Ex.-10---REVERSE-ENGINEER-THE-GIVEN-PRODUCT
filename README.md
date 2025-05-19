@@ -33,10 +33,14 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/38ec9d79-5295-471a-b0d2-da86fe2894d3)
+
+![image](https://github.com/user-attachments/assets/19dadc31-f15f-45da-ba10-a6f3b16e2b7a)
 
 
-### Name:
-### Register Number:
 
+
+### Name: HARISH S
+### Register Number: 212224040105
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
